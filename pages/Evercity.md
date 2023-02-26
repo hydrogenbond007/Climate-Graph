@@ -1,0 +1,4 @@
+- They’re similar to Ecorise DAO (offering payment for ‘protecting’ land) but it’s not clear how much climate impact, or fundamental changes, they drive.
+- Category: valuing land for broad [[Ecosystem Services]]
+-
+-

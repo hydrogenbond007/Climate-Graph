@@ -1,0 +1,12 @@
+- # Islands of Cool
+  **Subtype** [[NFT]]
+  **Tags:** Carbon | Demand | Community
+  **Summary:**ISLANDS OF COOL IS A PHENOMENON. AT THE INTERSECTION OF WEB3, CARBON REMOVAL, AND CULTURE. A WORLD FIRST, CARBON NEGATIVE, DECENTRALIZED BRAND. 
+  **Deployment Status:**Yes
+  **Description:**HERE AT ISLANDS OF COOL, WE DON'T JUST MAKE [[NFT]]S - WE MAKE DIGITAL CARBON SPONGES™. WE'RE BUILDING SUPER EFFICIENT, SMART CONTRACTS, THAT REMOVE CARBON AT MINT AND IN PERPETUITY. AS WE ALL SET ABOUT BUILDING AN INCREASINGLY DIGITAL DECENTRALIZED FUTURE - HARNESSING SMART CONTRACT TECHNOLOGY TO TACKLE THE GREATEST CHALLENGE FACING HUMANITY, SEEMED WELL, SMART. AND PRETTY COOL
+  **URL:**https://islandsofcool.club/
+  **Image:**https://pbs.twimg.com/profile_images/1502127511584776192/HLi7p1ts_400x400.jpg
+  **Ecosystem/chain:**[[Solana]]
+  **Twitter**https://twitter.com/Islands_of_Cool
+  **Community**
+  **Whitepaper**https://islandsofcool.club/manifesto/

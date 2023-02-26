@@ -1,0 +1,2 @@
+- I think it's a tokenisation of Australian ACCU's at this stage. Looks like there is intention to create a 'retirement' token, which would essentially retire the credit but that that requires the creation of some kind of security token.
+-

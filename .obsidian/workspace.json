@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "d913774598175dc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9605148499bc66fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84cf47bb2926b69d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f9c1586b0beeb6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f338032321220099",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ac7591ea24b516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12b0cd0665aec10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82bda84813bd1922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "108679f8d400ef2a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a5ef59e8d386862a",
+    "type": "split",
+    "children": [
+      {
+        "id": "041d64a7aa24d828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bbcc513bf1485c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd4503a41c72c362",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8c8b6d7002d0cfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ced28952f4ccaf9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "84cf47bb2926b69d",
+  "lastOpenFiles": [
+    "logseq/version-files/local/journals/2023_02_04/2023-02-04T17_43_06.313Z.Desktop.md",
+    "Treeconomy.md",
+    "Socialstack.md",
+    "PowerLedger.md",
+    "Kumo.md",
+    "Web2.md",
+    "Uniswap.md",
+    "logseq/bak/Uniswap/2023-02-04T12_00_50.049Z.Desktop.md",
+    "2023-02-14.md",
+    "Symmetric.md"
+  ]
+}

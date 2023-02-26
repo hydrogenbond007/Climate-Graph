@@ -1,0 +1,3 @@
+- Private traceability of enterprise supply chains -- climate friendly due to efficiency improvements.
+- Circularise (The Hague, The Netherlands) helps manufacturers to digitize raw materials and trace them to end products and parts. Circularise’s traceability software, built on blockchain technology, enables companies to make material information easily accessible to customers and regulators, without sharing sensitive and proprietary material composition information.
+-

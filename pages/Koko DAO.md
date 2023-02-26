@@ -1,0 +1,6 @@
+- **Subtype**
+- **Tags** [[Token]]
+- **Summary** ![Image](https://kokodao.xyz/wp-content/uploads/2022/09/Captura-de-Pantalla-2022-09-16-a-las-6.05.47-p.m..png)
+- **Deployment Status**
+- **URL** https://kokodao.xyz/
+- **Ecosystem/Chain**
